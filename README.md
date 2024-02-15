@@ -1,4 +1,4 @@
-# Android vendors, don't kill my app!
+https://dontkillmyapp.com/api/v2/%5Bvendor%5D.json# Android vendors, don't kill my app!
 
 ### [dontkillmyapp.com](https://dontkillmyapp.com)
 
