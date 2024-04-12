@@ -1,4 +1,4 @@
----
+---git+ssh://git.launchpad.net/ufw
 name: Huawei
 subtitle: except Nexus 6P
 manufacturer:
