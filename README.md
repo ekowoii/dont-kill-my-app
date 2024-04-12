@@ -100,3 +100,4 @@ variable to the vendor.md file you wish to award.
 Ultimately, every indie Android developer is at least partly affected by this issue.
 
 We at Urbandroid Team are affected heavily with our Sleep as Android app and we gathered so much info about hacks and workarounds that we felt the need to share the info. We started by contacting individual indie developers with offers to exchange info, which led to the idea of a more effective approach in the form of a libre software website.
+SampleApp/BackEnd/BackEnd.csproj
